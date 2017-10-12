@@ -1,0 +1,25 @@
+html {
+  font-family: helvetica, sans-serif;
+  background-image: url('https://ak5.picdn.net/shutterstock/videos/18075550/thumb/1.jpg');
+}
+
+h1,h2 {
+  color: green;
+  font-weight: bold;
+
+}
+
+h3 {
+  color: green;
+  font-weight: bold;
+
+}
+
+p {
+  color: white;
+  font-weight: bold;
+
+.plantmedicines {
+    background-color: lightblue
+    font-weight: bold;
+  }
